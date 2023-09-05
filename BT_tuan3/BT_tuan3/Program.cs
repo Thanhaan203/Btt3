@@ -10,6 +10,8 @@ namespace BT_tuan3
     {
         static void Main(string[] args)
         {
+            // suwa file
+            Console.Write("hello");
         }
     }
 }
